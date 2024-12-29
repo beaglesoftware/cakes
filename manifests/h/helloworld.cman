@@ -1,0 +1,11 @@
+{
+ "Package": {
+  "Name": "helloworld",
+  "Description": "",
+  "License": "MIT",
+  "Main": "main.c",
+  "Repository": "https://github.com/beaglesoftware/cman-helloworld",
+  "Author": ""
+ },
+ "Dependencies": {}
+}
