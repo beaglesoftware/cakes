@@ -3,7 +3,7 @@
   "Name": "helloworld",
   "Description": "Test for Cakeman",
   "License": "MIT",
-  "Main": "main.c",
+  "Main": "main.h",
   "Repository": "beaglesoftware/cman-helloworld",
   "Author": "BeagleSoftware"
  },
