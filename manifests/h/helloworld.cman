@@ -1,11 +1,11 @@
 {
  "Package": {
   "Name": "helloworld",
-  "Description": "",
+  "Description": "Test for Cakeman",
   "License": "MIT",
   "Main": "main.c",
-  "Repository": "https://github.com/beaglesoftware/cman-helloworld",
-  "Author": ""
+  "Repository": "beaglesoftware/cman-helloworld",
+  "Author": "BeagleSoftware"
  },
  "Dependencies": {}
 }
