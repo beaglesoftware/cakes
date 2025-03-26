@@ -1,0 +1,13 @@
+{
+  "Package": {
+    "Name": "hello2",
+    "Description": "",
+    "License": "",
+    "Repository": "",
+    "Main": "src/main.hpp",
+    "Author": ""
+  },
+  "Dependencies": {
+    "helloworld": "latest"
+  }
+}
