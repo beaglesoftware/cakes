@@ -1,13 +1,13 @@
 {
-  "Package": {
-    "Name": "hello2",
-    "Description": "",
-    "License": "",
-    "Repository": "https://github.com/ManiProjs/cmantest1",
-    "Main": "src/main.hpp",
-    "Author": ""
+  "package": {
+    "name": "hello2",
+    "description": "",
+    "license": "",
+    "repository": "https://github.com/ManiProjs/cmantest1",
+    "main": "src/main.hpp",
+    "author": ""
   },
-  "Dependencies": {
+  "dependencies": {
     "helloworld": "latest"
   }
 }
