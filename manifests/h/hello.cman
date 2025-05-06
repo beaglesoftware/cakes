@@ -3,7 +3,7 @@
     "Name": "hello2",
     "Description": "",
     "License": "",
-    "Repository": "",
+    "Repository": "https://github.com/ManiProjs/cmantest1",
     "Main": "src/main.hpp",
     "Author": ""
   },
