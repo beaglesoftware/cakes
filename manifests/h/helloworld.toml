@@ -1,5 +1,5 @@
 [package]
-name = "main"
+name = "helloworld"
 version = "0.1.0"
 repository = "https://github.com/ManiProjs/cman-helloworld.git"
 
