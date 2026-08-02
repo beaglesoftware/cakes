@@ -1,0 +1,9 @@
+[package]
+name = "helloworld"
+version = "0.1.0"
+repository = "https://github.com/ManiProjs/helloworld.git"
+type = "library"
+language = "c"
+
+[dependencies]
+hellolib = "0.1.0"
