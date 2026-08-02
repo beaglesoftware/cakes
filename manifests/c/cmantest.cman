@@ -1,7 +1,0 @@
-[package]
-name = "cmantest"
-version = "0.1.0"
-type = "library"
-language = "c"
-
-[dependencies]
