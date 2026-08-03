@@ -1,0 +1,9 @@
+[package]
+name = "sayhello"
+version = "0.1.0"
+repository = "https://github.com/ManiProjs/sayhello.git"
+type = "binary"
+language = "c"
+
+[dependencies]
+hellolib = "0.1.0"
