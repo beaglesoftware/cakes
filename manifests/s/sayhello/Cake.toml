@@ -1,6 +1,6 @@
 [package]
 name = "sayhello"
-version = "0.1.0"
+version = "0.1.1"
 repository = "https://github.com/ManiProjs/sayhello.git"
 type = "binary"
 language = "c"
